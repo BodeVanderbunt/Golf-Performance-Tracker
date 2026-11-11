@@ -1,2 +1,2 @@
 # Golf-Performance-Tracker
-A Python command-line app for tracking golf rounds and performance stats.
+A Python command-line app for tracking golf rounds and performance stats. Useful for adding rounds of golf played with information including the course, score, fairways hit, GIR (greens in regulation), and putts. The application allows you to view total rounds entered, as well as viewing average statistics and showing highlights like your best round and where it was played.
